@@ -1,0 +1,5 @@
+# Candidate, Voter_Percentage
+Khan,63
+Correy,19
+Li,13
+O'Tooley,2
